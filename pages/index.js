@@ -25,9 +25,7 @@ export default function Home({ allPostsData }) {
           not only have a proven mastery of HTML and CSS, but also have hands-on
           experience working with Javascript(ES6), React.Js, and other juicy CSS
           and React frameworks (e.g, Redux, Next.js, Chakra, Material-UI,
-          Tailwind, e.t.c). Up until now, I have built (and collaborated to
-          develop) modern, beautifully looking user facing applications and
-          frontend architectures across different industries.
+          Tailwind, e.t.c).
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
