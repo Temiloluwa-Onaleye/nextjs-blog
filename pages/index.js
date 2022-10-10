@@ -27,9 +27,7 @@ export default function Home({ allPostsData }) {
           and React frameworks (e.g, Redux, Next.js, Chakra, Material-UI,
           Tailwind, e.t.c). Up until now, I have built (and collaborated to
           develop) modern, beautifully looking user facing applications and
-          frontend architectures across different industries. I also stay
-          updated on the latest developments and trends on design patterns and
-          useful tools for the frontend stack.
+          frontend architectures across different industries.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
